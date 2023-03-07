@@ -1,4 +1,4 @@
-# Unhinted Iosevka SS10 WebFont 19.0.1
+# Unhinted Iosevka SS10 WebFont 20.0.0
 
 ## How to use
 
